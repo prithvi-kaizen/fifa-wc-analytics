@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive FIFA World Cup Analytics Dashboard - Explore historical trends, team performance, and match statistics from 1930 to 2022.">
+    <title>FIFA World Cup Analytics Dashboard</title>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">⚽</span>
+                <div class="logo-text">
+                    <h1>FIFA World Cup</h1>
+                    <span class="tagline">Analytics Dashboard</span>
+                </div>
+            </div>
+            <nav class="nav">
+                <a href="#overview" class="nav-link active">Overview</a>
+                <a href="#teams" class="nav-link">Teams</a>
+                <a href="#trends" class="nav-link">Trends</a>
+                <a href="#compare" class="nav-link">Compare</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2 class="hero-title">90+ Years of Football History</h2>
+            <p class="hero-subtitle">Explore data from 22 World Cups, 900+ matches, and 2,700+ goals</p>
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <span class="stat-number" id="stat-worldcups">22</span>
+                    <span class="stat-label">World Cups</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number" id="stat-matches">900+</span>
+                    <span class="stat-label">Matches</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number" id="stat-goals">2,700+</span>
+                    <span class="stat-label">Goals</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number" id="stat-teams">80+</span>
+                    <span class="stat-label">Nations</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Dashboard -->
+    <main class="dashboard">
+        <!-- Section: Goals Over Time -->
+        <section id="overview" class="chart-section">
+            <div class="section-header">
+                <h2 class="section-title">Goals Per World Cup</h2>
+                <p class="section-question">Are modern World Cups more defensive than older ones?</p>
+            </div>
+            <div class="chart-container glass-card">
+                <canvas id="goalsLineChart"></canvas>
+                <div class="chart-insight" id="insight-goals">
+                    <span class="insight-icon">💡</span>
+                    <p class="insight-text">Loading insight...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section: Top Teams -->
+        <section id="teams" class="chart-section">
+            <div class="section-header">
+                <h2 class="section-title">Top Performing Teams</h2>
+                <p class="section-question">Which teams have dominated across different World Cups?</p>
+            </div>
+            <div class="metric-toggle">
+                <button class="metric-btn active" data-metric="wins">Wins</button>
+                <button class="metric-btn" data-metric="goals">Goals</button>
+                <button class="metric-btn" data-metric="titles">Titles</button>
+            </div>
+            <div class="chart-container glass-card">
+                <canvas id="topTeamsChart"></canvas>
+                <div class="chart-insight" id="insight-teams">
+                    <span class="insight-icon">💡</span>
+                    <p class="insight-text">Loading insight...</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Two Column Layout -->
+        <div class="charts-grid">
+            <!-- Section: Goals by Stage -->
+            <section id="trends" class="chart-section">
+                <div class="section-header">
+                    <h2 class="section-title">Group vs Knockout Goals</h2>
+                    <p class="section-question">Do knockout matches have fewer goals?</p>
+                </div>
+                <div class="chart-container glass-card">
+                    <canvas id="stageChart"></canvas>
+                    <div class="chart-insight" id="insight-stage">
+                        <span class="insight-icon">💡</span>
+                        <p class="insight-text">Loading insight...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Section: Goals by Continent -->
+            <section class="chart-section">
+                <div class="section-header">
+                    <h2 class="section-title">Goals by Continent</h2>
+                    <p class="section-question">Which continents score the most?</p>
+                </div>
+                <div class="chart-container glass-card">
+                    <canvas id="continentChart"></canvas>
+                    <div class="chart-insight" id="insight-continent">
+                        <span class="insight-icon">💡</span>
+                        <p class="insight-text">Loading insight...</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Section: Team Comparison -->
+        <section id="compare" class="chart-section comparison-section">
+            <div class="section-header">
+                <h2 class="section-title">Team Comparison</h2>
+                <p class="section-question">How do historic rivals compare?</p>
+            </div>
+            <div class="team-selectors">
+                <div class="team-selector">
+                    <label for="team1-select">Team 1</label>
+                    <select id="team1-select" class="team-select">
+                        <option value="Brazil">Brazil</option>
+                    </select>
+                </div>
+                <span class="vs-badge">VS</span>
+                <div class="team-selector">
+                    <label for="team2-select">Team 2</label>
+                    <select id="team2-select" class="team-select">
+                        <option value="Germany">Germany</option>
+                    </select>
+                </div>
+                <button id="compare-btn" class="compare-btn">Compare</button>
+            </div>
+            <div class="chart-container glass-card comparison-chart">
+                <canvas id="comparisonChart"></canvas>
+                <div class="h2h-stats" id="h2h-stats">
+                    <!-- Head-to-head stats will be inserted here -->
+                </div>
+                <div class="chart-insight" id="insight-comparison">
+                    <span class="insight-icon">💡</span>
+                    <p class="insight-text">Loading insight...</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="footer-text">
+                📊 Data sources: Historical FIFA World Cup records (1930-2022)
+            </p>
+            <p class="footer-credit">
+                Built with Flask, Chart.js, and ❤️ for football
+            </p>
+        </div>
+    </footer>
+
+    <!-- Custom Scripts -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,327 @@
+year,host_country,stage,home_team,away_team,home_score,away_score,attendance,city,date
+1930,Uruguay,Group,France,Mexico,4,1,4444,Montevideo,1930-07-13
+1930,Uruguay,Group,Argentina,France,1,0,23409,Montevideo,1930-07-15
+1930,Uruguay,Group,Chile,Mexico,3,0,9249,Montevideo,1930-07-16
+1930,Uruguay,Group,Argentina,Mexico,6,3,42100,Montevideo,1930-07-19
+1930,Uruguay,Group,Uruguay,Peru,1,0,57735,Montevideo,1930-07-18
+1930,Uruguay,Group,Chile,France,1,0,9249,Montevideo,1930-07-19
+1930,Uruguay,Semi-final,Argentina,USA,6,1,72886,Montevideo,1930-07-26
+1930,Uruguay,Semi-final,Uruguay,Yugoslavia,6,1,79867,Montevideo,1930-07-27
+1930,Uruguay,Final,Uruguay,Argentina,4,2,93000,Montevideo,1930-07-30
+1934,Italy,Round of 16,Italy,USA,7,1,35000,Rome,1934-05-27
+1934,Italy,Round of 16,Germany,Belgium,5,2,8000,Florence,1934-05-27
+1934,Italy,Round of 16,Spain,Brazil,3,1,21000,Genoa,1934-05-27
+1934,Italy,Round of 16,Austria,France,3,2,16000,Turin,1934-05-27
+1934,Italy,Quarter-final,Germany,Sweden,2,1,3000,Milan,1934-05-31
+1934,Italy,Quarter-final,Italy,Spain,1,1,43000,Florence,1934-05-31
+1934,Italy,Semi-final,Italy,Austria,1,0,60000,Milan,1934-06-03
+1934,Italy,Semi-final,Czechoslovakia,Germany,3,1,15000,Rome,1934-06-03
+1934,Italy,Final,Italy,Czechoslovakia,2,1,55000,Rome,1934-06-10
+1938,France,Round of 16,Switzerland,Germany,1,1,27152,Paris,1938-06-04
+1938,France,Round of 16,Hungary,Dutch East Indies,6,0,9603,Reims,1938-06-05
+1938,France,Round of 16,France,Belgium,3,1,30454,Paris,1938-06-05
+1938,France,Round of 16,Italy,Norway,2,1,10000,Marseille,1938-06-05
+1938,France,Quarter-final,Sweden,Cuba,8,0,11465,Antibes,1938-06-12
+1938,France,Quarter-final,Hungary,Switzerland,2,0,22000,Lille,1938-06-12
+1938,France,Semi-final,Italy,Brazil,2,1,35000,Marseille,1938-06-16
+1938,France,Semi-final,Hungary,Sweden,5,1,18000,Paris,1938-06-16
+1938,France,Final,Italy,Hungary,4,2,60000,Paris,1938-06-19
+1950,Brazil,Group,Brazil,Mexico,4,0,81649,Rio de Janeiro,1950-06-24
+1950,Brazil,Group,Yugoslavia,Switzerland,3,0,7987,Belo Horizonte,1950-06-25
+1950,Brazil,Group,Brazil,Switzerland,2,2,42032,Sao Paulo,1950-06-28
+1950,Brazil,Group,Spain,Chile,2,0,19790,Rio de Janeiro,1950-06-29
+1950,Brazil,Group,Uruguay,Bolivia,8,0,5482,Belo Horizonte,1950-07-02
+1950,Brazil,Final Round,Brazil,Sweden,7,1,138886,Rio de Janeiro,1950-07-09
+1950,Brazil,Final Round,Uruguay,Spain,2,2,44802,Sao Paulo,1950-07-09
+1950,Brazil,Final Round,Brazil,Spain,6,1,152772,Rio de Janeiro,1950-07-13
+1950,Brazil,Final Round,Uruguay,Sweden,3,2,7903,Sao Paulo,1950-07-13
+1950,Brazil,Final,Uruguay,Brazil,2,1,199854,Rio de Janeiro,1950-07-16
+1954,Switzerland,Group,Yugoslavia,France,1,0,18000,Lausanne,1954-06-16
+1954,Switzerland,Group,Brazil,Mexico,5,0,18000,Geneva,1954-06-16
+1954,Switzerland,Group,Hungary,South Korea,9,0,18000,Zurich,1954-06-17
+1954,Switzerland,Group,West Germany,Turkey,4,1,18000,Bern,1954-06-17
+1954,Switzerland,Quarter-final,West Germany,Yugoslavia,2,0,55000,Geneva,1954-06-27
+1954,Switzerland,Quarter-final,Hungary,Brazil,4,2,45000,Bern,1954-06-27
+1954,Switzerland,Quarter-final,Austria,Switzerland,7,5,35000,Lausanne,1954-06-26
+1954,Switzerland,Quarter-final,Uruguay,England,4,2,40000,Basel,1954-06-26
+1954,Switzerland,Semi-final,West Germany,Austria,6,1,58000,Basel,1954-06-30
+1954,Switzerland,Semi-final,Hungary,Uruguay,4,2,50000,Lausanne,1954-06-30
+1954,Switzerland,Final,West Germany,Hungary,3,2,64000,Bern,1954-07-04
+1958,Sweden,Group,West Germany,Argentina,3,1,31156,Malmo,1958-06-08
+1958,Sweden,Group,Northern Ireland,Czechoslovakia,1,0,11908,Halmstad,1958-06-08
+1958,Sweden,Group,France,Paraguay,7,3,20548,Norrkoping,1958-06-08
+1958,Sweden,Group,Brazil,Austria,3,0,21239,Uddevalla,1958-06-08
+1958,Sweden,Group,Sweden,Mexico,3,0,34107,Stockholm,1958-06-08
+1958,Sweden,Quarter-final,France,Northern Ireland,4,0,11800,Norrkoping,1958-06-19
+1958,Sweden,Quarter-final,West Germany,Yugoslavia,1,0,20055,Malmo,1958-06-19
+1958,Sweden,Quarter-final,Sweden,Soviet Union,2,0,31900,Stockholm,1958-06-19
+1958,Sweden,Quarter-final,Brazil,Wales,1,0,25923,Gothenburg,1958-06-19
+1958,Sweden,Semi-final,Brazil,France,5,2,52000,Stockholm,1958-06-24
+1958,Sweden,Semi-final,Sweden,West Germany,3,1,50000,Gothenburg,1958-06-24
+1958,Sweden,Final,Brazil,Sweden,5,2,49737,Stockholm,1958-06-29
+1962,Chile,Group,Argentina,Bulgaria,1,0,7134,Rancagua,1962-05-30
+1962,Chile,Group,Hungary,England,2,1,7938,Rancagua,1962-05-31
+1962,Chile,Group,Chile,Switzerland,3,1,65000,Santiago,1962-05-30
+1962,Chile,Group,Brazil,Mexico,2,0,12700,Vina del Mar,1962-05-30
+1962,Chile,Quarter-final,Chile,Soviet Union,2,1,17268,Arica,1962-06-10
+1962,Chile,Quarter-final,Brazil,England,3,1,17736,Vina del Mar,1962-06-10
+1962,Chile,Quarter-final,Yugoslavia,West Germany,1,0,18000,Santiago,1962-06-10
+1962,Chile,Quarter-final,Czechoslovakia,Hungary,1,0,11690,Rancagua,1962-06-10
+1962,Chile,Semi-final,Brazil,Chile,4,2,76594,Santiago,1962-06-13
+1962,Chile,Semi-final,Czechoslovakia,Yugoslavia,3,1,5890,Vina del Mar,1962-06-13
+1962,Chile,Final,Brazil,Czechoslovakia,3,1,68679,Santiago,1962-06-17
+1966,England,Group,England,Uruguay,0,0,87148,London,1966-07-11
+1966,England,Group,France,Mexico,1,1,69237,London,1966-07-13
+1966,England,Group,Brazil,Bulgaria,2,0,47308,Liverpool,1966-07-12
+1966,England,Group,West Germany,Switzerland,5,0,36127,Sheffield,1966-07-12
+1966,England,Group,Argentina,Spain,2,1,42738,Birmingham,1966-07-13
+1966,England,Quarter-final,England,Argentina,1,0,90584,London,1966-07-23
+1966,England,Quarter-final,West Germany,Uruguay,4,0,40007,Sheffield,1966-07-23
+1966,England,Quarter-final,Soviet Union,Hungary,2,1,26844,Sunderland,1966-07-23
+1966,England,Quarter-final,Portugal,North Korea,5,3,51780,Liverpool,1966-07-23
+1966,England,Semi-final,West Germany,Soviet Union,2,1,43000,Liverpool,1966-07-25
+1966,England,Semi-final,England,Portugal,2,1,94493,London,1966-07-26
+1966,England,Final,England,West Germany,4,2,96924,London,1966-07-30
+1970,Mexico,Group,Mexico,Soviet Union,0,0,107160,Mexico City,1970-05-31
+1970,Mexico,Group,Belgium,El Salvador,3,0,92205,Mexico City,1970-06-03
+1970,Mexico,Group,Italy,Sweden,1,0,13437,Toluca,1970-06-03
+1970,Mexico,Group,Brazil,Czechoslovakia,4,1,52897,Guadalajara,1970-06-03
+1970,Mexico,Group,West Germany,Morocco,2,1,12942,Leon,1970-06-03
+1970,Mexico,Group,England,Romania,1,0,50560,Guadalajara,1970-06-02
+1970,Mexico,Quarter-final,West Germany,England,3,2,23357,Leon,1970-06-14
+1970,Mexico,Quarter-final,Brazil,Peru,4,2,54233,Guadalajara,1970-06-14
+1970,Mexico,Quarter-final,Italy,Mexico,4,1,96085,Toluca,1970-06-14
+1970,Mexico,Quarter-final,Uruguay,Soviet Union,1,0,45000,Mexico City,1970-06-14
+1970,Mexico,Semi-final,Italy,West Germany,4,3,102444,Mexico City,1970-06-17
+1970,Mexico,Semi-final,Brazil,Uruguay,3,1,51261,Guadalajara,1970-06-17
+1970,Mexico,Final,Brazil,Italy,4,1,107412,Mexico City,1970-06-21
+1974,West Germany,Group,West Germany,Chile,1,0,81100,Berlin,1974-06-14
+1974,West Germany,Group,East Germany,Australia,2,0,21500,Hamburg,1974-06-14
+1974,West Germany,Group,Brazil,Yugoslavia,0,0,62000,Frankfurt,1974-06-13
+1974,West Germany,Group,Netherlands,Uruguay,2,0,53700,Hanover,1974-06-15
+1974,West Germany,Group,Poland,Argentina,3,2,55400,Stuttgart,1974-06-15
+1974,West Germany,Group,Italy,Haiti,3,1,51000,Munich,1974-06-15
+1974,West Germany,Second Round,Netherlands,Argentina,4,0,53100,Gelsenkirchen,1974-06-26
+1974,West Germany,Second Round,Brazil,East Germany,1,0,52200,Hanover,1974-06-26
+1974,West Germany,Second Round,Poland,Sweden,1,0,26500,Stuttgart,1974-06-26
+1974,West Germany,Second Round,West Germany,Yugoslavia,2,0,67000,Dusseldorf,1974-06-26
+1974,West Germany,Final,West Germany,Netherlands,2,1,78200,Munich,1974-07-07
+1978,Argentina,Group,Argentina,Hungary,2,1,71615,Buenos Aires,1978-06-02
+1978,Argentina,Group,Italy,France,2,1,48000,Mar del Plata,1978-06-02
+1978,Argentina,Group,Poland,West Germany,0,0,41000,Buenos Aires,1978-06-01
+1978,Argentina,Group,Brazil,Sweden,1,1,38000,Mar del Plata,1978-06-03
+1978,Argentina,Group,Netherlands,Iran,3,0,35000,Mendoza,1978-06-03
+1978,Argentina,Group,Peru,Scotland,3,1,37927,Cordoba,1978-06-03
+1978,Argentina,Second Round,Argentina,Poland,2,0,37000,Rosario,1978-06-14
+1978,Argentina,Second Round,Brazil,Peru,3,0,43000,Mendoza,1978-06-14
+1978,Argentina,Second Round,Netherlands,Austria,5,1,35000,Cordoba,1978-06-14
+1978,Argentina,Second Round,Italy,West Germany,0,0,67000,Buenos Aires,1978-06-14
+1978,Argentina,Final,Argentina,Netherlands,3,1,71483,Buenos Aires,1978-06-25
+1982,Spain,Group,Italy,Poland,0,0,68000,Vigo,1982-06-14
+1982,Spain,Group,Cameroon,Peru,0,0,25000,La Coruna,1982-06-15
+1982,Spain,Group,Argentina,Belgium,0,1,48000,Barcelona,1982-06-13
+1982,Spain,Group,West Germany,Algeria,1,2,42000,Gijon,1982-06-16
+1982,Spain,Group,Brazil,Soviet Union,2,1,62000,Seville,1982-06-14
+1982,Spain,Group,England,France,3,1,48000,Bilbao,1982-06-16
+1982,Spain,Second Round,Italy,Argentina,2,1,44000,Barcelona,1982-06-29
+1982,Spain,Second Round,Brazil,Argentina,3,1,44000,Barcelona,1982-07-02
+1982,Spain,Second Round,Italy,Brazil,3,2,44000,Barcelona,1982-07-05
+1982,Spain,Semi-final,Italy,Poland,2,0,48000,Barcelona,1982-07-08
+1982,Spain,Semi-final,West Germany,France,3,3,71000,Seville,1982-07-08
+1982,Spain,Final,Italy,West Germany,3,1,90000,Madrid,1982-07-11
+1986,Mexico,Group,Argentina,South Korea,3,1,60000,Mexico City,1986-06-02
+1986,Mexico,Group,Italy,Bulgaria,1,1,35000,Mexico City,1986-06-31
+1986,Mexico,Group,Brazil,Spain,1,0,45000,Guadalajara,1986-06-01
+1986,Mexico,Group,France,Canada,1,0,35748,Leon,1986-06-01
+1986,Mexico,Group,Soviet Union,Hungary,6,0,32000,Irapuato,1986-06-02
+1986,Mexico,Group,Mexico,Belgium,2,1,110000,Mexico City,1986-06-03
+1986,Mexico,Round of 16,Argentina,Uruguay,1,0,45000,Puebla,1986-06-16
+1986,Mexico,Round of 16,Brazil,Poland,4,0,45000,Guadalajara,1986-06-16
+1986,Mexico,Round of 16,France,Italy,2,0,45000,Mexico City,1986-06-17
+1986,Mexico,Quarter-final,Argentina,England,2,1,114600,Mexico City,1986-06-22
+1986,Mexico,Quarter-final,West Germany,Mexico,0,0,114600,Monterrey,1986-06-21
+1986,Mexico,Quarter-final,France,Brazil,1,1,65000,Guadalajara,1986-06-21
+1986,Mexico,Semi-final,Argentina,Belgium,2,0,110420,Mexico City,1986-06-25
+1986,Mexico,Semi-final,West Germany,France,2,0,45000,Guadalajara,1986-06-25
+1986,Mexico,Final,Argentina,West Germany,3,2,114600,Mexico City,1986-06-29
+1990,Italy,Group,Cameroon,Argentina,1,0,73000,Milan,1990-06-08
+1990,Italy,Group,Italy,Austria,1,0,74000,Rome,1990-06-09
+1990,Italy,Group,Brazil,Sweden,2,1,62502,Turin,1990-06-10
+1990,Italy,Group,West Germany,Yugoslavia,4,1,74765,Milan,1990-06-10
+1990,Italy,Group,Spain,Uruguay,0,0,35500,Udine,1990-06-13
+1990,Italy,Group,England,Netherlands,0,0,35267,Cagliari,1990-06-16
+1990,Italy,Round of 16,Cameroon,Colombia,2,1,50026,Naples,1990-06-23
+1990,Italy,Round of 16,Argentina,Brazil,1,0,61381,Turin,1990-06-24
+1990,Italy,Round of 16,West Germany,Netherlands,2,1,74559,Milan,1990-06-24
+1990,Italy,Round of 16,England,Belgium,1,0,34520,Bologna,1990-06-26
+1990,Italy,Quarter-final,Argentina,Yugoslavia,0,0,38971,Florence,1990-06-30
+1990,Italy,Quarter-final,Italy,Ireland,1,0,73303,Rome,1990-06-30
+1990,Italy,Quarter-final,West Germany,Czechoslovakia,1,0,73347,Milan,1990-07-01
+1990,Italy,Quarter-final,England,Cameroon,3,2,55205,Naples,1990-07-01
+1990,Italy,Semi-final,Argentina,Italy,1,1,59978,Naples,1990-07-03
+1990,Italy,Semi-final,West Germany,England,1,1,62628,Turin,1990-07-04
+1990,Italy,Final,West Germany,Argentina,1,0,73603,Rome,1990-07-08
+1994,USA,Group,Germany,Bolivia,1,0,81100,Chicago,1994-06-17
+1994,USA,Group,Spain,South Korea,2,2,83401,Dallas,1994-06-17
+1994,USA,Group,Italy,Ireland,0,1,75338,New York,1994-06-18
+1994,USA,Group,Brazil,Russia,2,0,81061,Stanford,1994-06-20
+1994,USA,Group,Argentina,Greece,4,0,54453,Boston,1994-06-21
+1994,USA,Group,Nigeria,Bulgaria,3,0,44132,Dallas,1994-06-21
+1994,USA,Round of 16,Germany,Belgium,3,2,60790,Chicago,1994-07-02
+1994,USA,Round of 16,Spain,Switzerland,3,0,74914,Washington,1994-07-02
+1994,USA,Round of 16,Brazil,USA,1,0,84147,Stanford,1994-07-04
+1994,USA,Round of 16,Netherlands,Ireland,2,0,61355,Orlando,1994-07-04
+1994,USA,Quarter-final,Italy,Spain,2,1,54367,Boston,1994-07-09
+1994,USA,Quarter-final,Brazil,Netherlands,3,2,63998,Dallas,1994-07-09
+1994,USA,Quarter-final,Germany,Bulgaria,1,2,72416,New York,1994-07-10
+1994,USA,Quarter-final,Sweden,Romania,2,2,83716,Stanford,1994-07-10
+1994,USA,Semi-final,Brazil,Sweden,1,0,84569,Los Angeles,1994-07-13
+1994,USA,Semi-final,Italy,Bulgaria,2,1,74110,New York,1994-07-13
+1994,USA,Final,Brazil,Italy,0,0,94194,Los Angeles,1994-07-17
+1998,France,Group,Brazil,Scotland,2,1,80000,Paris,1998-06-10
+1998,France,Group,Morocco,Norway,2,2,38100,Montpellier,1998-06-10
+1998,France,Group,Italy,Chile,2,2,38000,Bordeaux,1998-06-11
+1998,France,Group,France,South Africa,3,0,77000,Marseille,1998-06-12
+1998,France,Group,Germany,USA,2,0,43815,Paris,1998-06-15
+1998,France,Group,Netherlands,South Korea,5,0,35000,Marseille,1998-06-20
+1998,France,Round of 16,Brazil,Chile,4,1,48500,Paris,1998-06-27
+1998,France,Round of 16,Nigeria,Denmark,1,4,38100,Paris,1998-06-28
+1998,France,Round of 16,Germany,Mexico,2,1,48500,Montpellier,1998-06-29
+1998,France,Round of 16,Netherlands,Yugoslavia,2,1,54000,Toulouse,1998-06-29
+1998,France,Quarter-final,France,Italy,0,0,77000,Paris,1998-07-03
+1998,France,Quarter-final,Brazil,Denmark,3,2,54000,Nantes,1998-07-03
+1998,France,Quarter-final,Netherlands,Argentina,2,1,48500,Marseille,1998-07-04
+1998,France,Quarter-final,Germany,Croatia,0,3,48500,Lyon,1998-07-04
+1998,France,Semi-final,Brazil,Netherlands,1,1,54000,Marseille,1998-07-07
+1998,France,Semi-final,France,Croatia,2,1,77000,Paris,1998-07-08
+1998,France,Final,France,Brazil,3,0,75000,Paris,1998-07-12
+2002,South Korea/Japan,Group,France,Senegal,0,1,62561,Seoul,2002-05-31
+2002,South Korea/Japan,Group,Germany,Saudi Arabia,8,0,48000,Sapporo,2002-06-01
+2002,South Korea/Japan,Group,Brazil,Turkey,2,1,55000,Ulsan,2002-06-03
+2002,South Korea/Japan,Group,Argentina,Nigeria,1,0,40000,Ibaraki,2002-06-02
+2002,South Korea/Japan,Group,England,Sweden,1,1,52721,Saitama,2002-06-02
+2002,South Korea/Japan,Group,Italy,Ecuador,2,0,38000,Sapporo,2002-06-03
+2002,South Korea/Japan,Round of 16,Germany,Paraguay,1,0,45000,Seogwipo,2002-06-15
+2002,South Korea/Japan,Round of 16,England,Denmark,3,0,40582,Niigata,2002-06-15
+2002,South Korea/Japan,Round of 16,Brazil,Belgium,2,0,62000,Kobe,2002-06-17
+2002,South Korea/Japan,Round of 16,South Korea,Italy,2,1,38588,Daejeon,2002-06-18
+2002,South Korea/Japan,Quarter-final,Germany,USA,1,0,36000,Ulsan,2002-06-21
+2002,South Korea/Japan,Quarter-final,Brazil,England,2,1,47436,Shizuoka,2002-06-21
+2002,South Korea/Japan,Quarter-final,South Korea,Spain,0,0,38588,Gwangju,2002-06-22
+2002,South Korea/Japan,Quarter-final,Turkey,Senegal,1,0,26482,Osaka,2002-06-22
+2002,South Korea/Japan,Semi-final,Germany,South Korea,1,0,65625,Seoul,2002-06-25
+2002,South Korea/Japan,Semi-final,Brazil,Turkey,1,0,69000,Saitama,2002-06-26
+2002,South Korea/Japan,Final,Brazil,Germany,2,0,69029,Yokohama,2002-06-30
+2006,Germany,Group,Germany,Costa Rica,4,2,66000,Munich,2006-06-09
+2006,Germany,Group,England,Paraguay,1,0,41000,Frankfurt,2006-06-10
+2006,Germany,Group,Argentina,Ivory Coast,2,1,52000,Hamburg,2006-06-10
+2006,Germany,Group,Italy,Ghana,2,0,40000,Hanover,2006-06-12
+2006,Germany,Group,Brazil,Croatia,1,0,52000,Berlin,2006-06-13
+2006,Germany,Group,France,Switzerland,0,0,43000,Stuttgart,2006-06-13
+2006,Germany,Round of 16,Germany,Sweden,2,0,52000,Munich,2006-06-24
+2006,Germany,Round of 16,Argentina,Mexico,2,1,72000,Leipzig,2006-06-24
+2006,Germany,Round of 16,Italy,Australia,1,0,66000,Kaiserslautern,2006-06-26
+2006,Germany,Round of 16,England,Ecuador,1,0,52000,Stuttgart,2006-06-25
+2006,Germany,Round of 16,Brazil,Ghana,3,0,45000,Dortmund,2006-06-27
+2006,Germany,Round of 16,France,Spain,3,1,52000,Hanover,2006-06-27
+2006,Germany,Quarter-final,Germany,Argentina,1,1,72000,Berlin,2006-06-30
+2006,Germany,Quarter-final,Italy,Ukraine,3,0,37000,Hamburg,2006-06-30
+2006,Germany,Quarter-final,France,Brazil,1,0,52000,Frankfurt,2006-07-01
+2006,Germany,Quarter-final,England,Portugal,0,0,52000,Gelsenkirchen,2006-07-01
+2006,Germany,Semi-final,Germany,Italy,0,2,66000,Dortmund,2006-07-04
+2006,Germany,Semi-final,France,Portugal,1,0,48000,Munich,2006-07-05
+2006,Germany,Final,Italy,France,1,1,69000,Berlin,2006-07-09
+2010,South Africa,Group,South Africa,Mexico,1,1,84490,Johannesburg,2010-06-11
+2010,South Africa,Group,Uruguay,France,0,0,64100,Cape Town,2010-06-11
+2010,South Africa,Group,Argentina,Nigeria,1,0,55686,Johannesburg,2010-06-12
+2010,South Africa,Group,England,USA,1,1,38646,Rustenburg,2010-06-12
+2010,South Africa,Group,Germany,Australia,4,0,84490,Durban,2010-06-13
+2010,South Africa,Group,Netherlands,Denmark,2,0,83465,Johannesburg,2010-06-14
+2010,South Africa,Group,Brazil,North Korea,2,1,62712,Johannesburg,2010-06-15
+2010,South Africa,Group,Spain,Switzerland,0,1,62453,Durban,2010-06-16
+2010,South Africa,Round of 16,Uruguay,South Korea,2,1,30597,Port Elizabeth,2010-06-26
+2010,South Africa,Round of 16,USA,Ghana,1,2,34976,Rustenburg,2010-06-26
+2010,South Africa,Round of 16,Germany,England,4,1,40510,Bloemfontein,2010-06-27
+2010,South Africa,Round of 16,Argentina,Mexico,3,1,84377,Johannesburg,2010-06-27
+2010,South Africa,Round of 16,Netherlands,Slovakia,2,1,36742,Durban,2010-06-28
+2010,South Africa,Round of 16,Brazil,Chile,3,0,54096,Johannesburg,2010-06-28
+2010,South Africa,Round of 16,Spain,Portugal,1,0,62955,Cape Town,2010-06-29
+2010,South Africa,Round of 16,Paraguay,Japan,0,0,36742,Pretoria,2010-06-29
+2010,South Africa,Quarter-final,Netherlands,Brazil,2,1,40186,Port Elizabeth,2010-07-02
+2010,South Africa,Quarter-final,Uruguay,Ghana,1,1,84017,Johannesburg,2010-07-02
+2010,South Africa,Quarter-final,Germany,Argentina,4,0,64100,Cape Town,2010-07-03
+2010,South Africa,Quarter-final,Spain,Paraguay,1,0,55359,Johannesburg,2010-07-03
+2010,South Africa,Semi-final,Netherlands,Uruguay,3,2,62479,Cape Town,2010-07-06
+2010,South Africa,Semi-final,Germany,Spain,0,1,60960,Durban,2010-07-07
+2010,South Africa,Final,Netherlands,Spain,0,1,84490,Johannesburg,2010-07-11
+2014,Brazil,Group,Brazil,Croatia,3,1,62103,Sao Paulo,2014-06-12
+2014,Brazil,Group,Mexico,Cameroon,1,0,40379,Natal,2014-06-13
+2014,Brazil,Group,Spain,Netherlands,1,5,49922,Salvador,2014-06-13
+2014,Brazil,Group,Colombia,Greece,3,0,51351,Belo Horizonte,2014-06-14
+2014,Brazil,Group,England,Italy,1,2,39706,Manaus,2014-06-14
+2014,Brazil,Group,Germany,Portugal,4,0,51081,Salvador,2014-06-16
+2014,Brazil,Group,France,Honduras,3,0,43012,Porto Alegre,2014-06-15
+2014,Brazil,Group,Argentina,Bosnia,2,1,74738,Rio de Janeiro,2014-06-15
+2014,Brazil,Round of 16,Brazil,Chile,1,1,62561,Belo Horizonte,2014-06-28
+2014,Brazil,Round of 16,Colombia,Uruguay,2,0,73804,Rio de Janeiro,2014-06-28
+2014,Brazil,Round of 16,France,Nigeria,2,0,60342,Brasilia,2014-06-30
+2014,Brazil,Round of 16,Germany,Algeria,2,1,63540,Porto Alegre,2014-06-30
+2014,Brazil,Round of 16,Netherlands,Mexico,2,1,62575,Fortaleza,2014-06-29
+2014,Brazil,Round of 16,Argentina,Switzerland,1,0,62575,Sao Paulo,2014-07-01
+2014,Brazil,Quarter-final,France,Germany,0,1,58579,Rio de Janeiro,2014-07-04
+2014,Brazil,Quarter-final,Brazil,Colombia,2,1,58817,Fortaleza,2014-07-04
+2014,Brazil,Quarter-final,Argentina,Belgium,1,0,68551,Brasilia,2014-07-05
+2014,Brazil,Quarter-final,Netherlands,Costa Rica,0,0,48011,Salvador,2014-07-05
+2014,Brazil,Semi-final,Brazil,Germany,1,7,58141,Belo Horizonte,2014-07-08
+2014,Brazil,Semi-final,Netherlands,Argentina,0,0,63267,Sao Paulo,2014-07-09
+2014,Brazil,Final,Germany,Argentina,1,0,74738,Rio de Janeiro,2014-07-13
+2018,Russia,Group,Russia,Saudi Arabia,5,0,78011,Moscow,2018-06-14
+2018,Russia,Group,Egypt,Uruguay,0,1,40904,Yekaterinburg,2018-06-15
+2018,Russia,Group,Morocco,Iran,0,1,62548,Saint Petersburg,2018-06-15
+2018,Russia,Group,Portugal,Spain,3,3,43866,Sochi,2018-06-15
+2018,Russia,Group,France,Australia,2,1,41279,Kazan,2018-06-16
+2018,Russia,Group,Argentina,Iceland,1,1,44190,Moscow,2018-06-16
+2018,Russia,Group,Brazil,Switzerland,1,1,64042,Rostov-on-Don,2018-06-17
+2018,Russia,Group,Germany,Mexico,0,1,78011,Moscow,2018-06-17
+2018,Russia,Group,Belgium,Panama,3,0,43257,Sochi,2018-06-18
+2018,Russia,Group,England,Tunisia,2,1,43319,Volgograd,2018-06-18
+2018,Russia,Round of 16,France,Argentina,4,3,64042,Kazan,2018-06-30
+2018,Russia,Round of 16,Uruguay,Portugal,2,1,44073,Sochi,2018-06-30
+2018,Russia,Round of 16,Spain,Russia,1,1,44190,Moscow,2018-07-01
+2018,Russia,Round of 16,Croatia,Denmark,1,1,40904,Nizhny Novgorod,2018-07-01
+2018,Russia,Round of 16,Brazil,Mexico,2,0,62548,Samara,2018-07-02
+2018,Russia,Round of 16,Belgium,Japan,3,2,62548,Rostov-on-Don,2018-07-02
+2018,Russia,Round of 16,Sweden,Switzerland,1,0,64042,Saint Petersburg,2018-07-03
+2018,Russia,Round of 16,Colombia,England,1,1,43319,Moscow,2018-07-03
+2018,Russia,Quarter-final,France,Uruguay,2,0,64042,Nizhny Novgorod,2018-07-06
+2018,Russia,Quarter-final,Brazil,Belgium,1,2,64042,Kazan,2018-07-06
+2018,Russia,Quarter-final,Sweden,England,0,2,62548,Samara,2018-07-07
+2018,Russia,Quarter-final,Russia,Croatia,2,2,44073,Sochi,2018-07-07
+2018,Russia,Semi-final,France,Belgium,1,0,64286,Saint Petersburg,2018-07-10
+2018,Russia,Semi-final,Croatia,England,2,1,64042,Moscow,2018-07-11
+2018,Russia,Final,France,Croatia,4,2,78011,Moscow,2018-07-15
+2022,Qatar,Group,Qatar,Ecuador,0,2,67372,Al Khor,2022-11-20
+2022,Qatar,Group,England,Iran,6,2,45334,Al Rayyan,2022-11-21
+2022,Qatar,Group,Senegal,Netherlands,0,2,41721,Al Thumama,2022-11-21
+2022,Qatar,Group,USA,Wales,1,1,43418,Al Rayyan,2022-11-21
+2022,Qatar,Group,Argentina,Saudi Arabia,1,2,88012,Lusail,2022-11-22
+2022,Qatar,Group,France,Australia,4,1,40875,Al Janoub,2022-11-22
+2022,Qatar,Group,Germany,Japan,1,2,42608,Al Rayyan,2022-11-23
+2022,Qatar,Group,Spain,Costa Rica,7,0,40846,Al Thumama,2022-11-23
+2022,Qatar,Group,Brazil,Serbia,2,0,88103,Lusail,2022-11-24
+2022,Qatar,Group,Portugal,Ghana,3,2,42663,Doha,2022-11-24
+2022,Qatar,Round of 16,Netherlands,USA,3,1,44846,Khalifa,2022-12-03
+2022,Qatar,Round of 16,Argentina,Australia,2,1,45032,Al Rayyan,2022-12-03
+2022,Qatar,Round of 16,France,Poland,3,1,45294,Al Thumama,2022-12-04
+2022,Qatar,Round of 16,England,Senegal,3,0,67188,Al Bayt,2022-12-04
+2022,Qatar,Round of 16,Japan,Croatia,1,1,42523,Al Janoub,2022-12-05
+2022,Qatar,Round of 16,Brazil,South Korea,4,1,43847,Stadium 974,2022-12-05
+2022,Qatar,Round of 16,Morocco,Spain,0,0,44667,Education City,2022-12-06
+2022,Qatar,Round of 16,Portugal,Switzerland,6,1,83720,Lusail,2022-12-06
+2022,Qatar,Quarter-final,Croatia,Brazil,1,1,44042,Education City,2022-12-09
+2022,Qatar,Quarter-final,Netherlands,Argentina,2,2,88235,Lusail,2022-12-09
+2022,Qatar,Quarter-final,Morocco,Portugal,1,0,44198,Al Thumama,2022-12-10
+2022,Qatar,Quarter-final,France,England,2,1,68895,Al Bayt,2022-12-10
+2022,Qatar,Semi-final,Argentina,Croatia,3,0,88966,Lusail,2022-12-13
+2022,Qatar,Semi-final,France,Morocco,2,0,68294,Al Bayt,2022-12-14
+2022,Qatar,Final,Argentina,France,3,3,88966,Lusail,2022-12-18
