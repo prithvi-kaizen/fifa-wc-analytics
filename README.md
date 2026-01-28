@@ -29,27 +29,28 @@ An interactive web-based visual analytics platform that explores historical FIFA
 ### Installation
 
 ```bash
-# Navigate to project directory
-cd claude-opus-try
+# Clone the repository
+git clone https://github.com/prithvi-kaizen/fifa-wc-analytics.git
+cd fifa-wc-analytics
 
 # Create virtual environment
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
-pip install flask pandas flask-cors
+pip install -r requirements.txt
 
 # Run the application
 python app.py
 ```
 
 ### Access the Dashboard
-Open your browser and navigate to: **http://localhost:5000**
+Open your browser and navigate to: **http://localhost:5001**
 
 ## 📁 Project Structure
 
 ```
-claude-opus-try/
+fifa-wc-analytics/
 ├── app.py                    # Flask application with API endpoints
 ├── data_processor.py         # Data processing & analytics logic
 ├── requirements.txt          # Python dependencies
@@ -80,10 +81,10 @@ claude-opus-try/
 
 ```bash
 # Top 5 teams by goals
-curl "http://localhost:5000/api/top-teams?metric=goals&limit=5"
+curl "http://localhost:5001/api/top-teams?metric=goals&limit=5"
 
 # Compare Brazil vs Argentina
-curl "http://localhost:5000/api/team-comparison?team1=Brazil&team2=Argentina"
+curl "http://localhost:5001/api/team-comparison?team1=Brazil&team2=Argentina"
 ```
 
 ## 📊 Data Sources
